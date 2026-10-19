@@ -1,18 +1,128 @@
-# 💫 About Me:
-I'm a Computer Science student passionate about Artificial Intelligence, Machine Learning, and Software Engineering. I enjoy building AI-powered applications, exploring LLMs and deep learning, solving DSA problems, and contributing to open-source projects. Currently learning how to build scalable, production-ready AI systems.
+<div align="center">
 
+# Abhiraj Agarwal
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Abhiraj Agarwal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agarwalabhiraj06@gmail.com) 
+### AI/ML Engineer · Undergraduate Researcher · Software Developer
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Abhiraj-Agarwal&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Abhiraj-Agarwal&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abhiraj-Agarwal&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+**Building AI that ships — compressed, orchestrated, and measured.**
+
+I build practical AI systems with a focus on model efficiency, agentic workflows, and measurable engineering outcomes.
+
+[Portfolio](https://abhiraj-agarwal.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/abhiraj-agarwal-2772a2329) · [Email](mailto:agarwalabhiraj06@gmail.com) · [LeetCode](https://leetcode.com/)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Abhiraj-Agarwal&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👋 About Me
+
+I'm a third-year Computer Science and Engineering undergraduate at **Shiv Nadar Institute of Eminence**, interested in building reliable, useful AI systems—not just demos.
+
+- 🧠 Interested in **LLMs, AI agents, knowledge distillation, and applied machine learning**.
+- 🏭 Former **AI Engineer Intern at VVDN Technologies**, where I worked on LLM orchestration for a manufacturing execution system (MES) chatbot.
+- 🔬 Undergraduate researcher exploring machine learning and graph-based approaches.
+- 🌱 Open-source contributor; **Top 7% in GirlScript Summer of Code 2026**.
+- 🎓 **9.87/10 CGPA** · Dean's List · **450+ DSA problems solved**.
+
+I care about the engineering details behind AI: latency, inference cost, evaluation, reproducibility, and how well a system works outside a notebook.
+
+## 🚀 Featured Projects
+
+### 1. [PRISM — Personalized Readiness Intelligence & Skill Mapping](https://github.com/Deltasthicc/PRISM)
+**Explainable competency-gap analysis and personalized learning pathways** · `Python` `FastAPI` `PostgreSQL` `React`
+
+A learning and assessment platform developed for Smart India Hackathon 2026. It combines learner self-assessments with demonstrated performance to identify skill gaps and generate explainable learning pathways.
+
+- Models **55 competencies across 4 curricula**, with source-linked learning material.
+- Uses a documented **65% demonstrated-performance / 35% self-assessment** weighting.
+- Includes assessment and quiz-generation workflows, analytics, and multilingual UI support.
+
+[Live demo](https://prism-iota-azure.vercel.app/)
+
+### 2. [Knowledge Distillation for GPT-2 Compression](https://github.com/Abhiraj-Agarwal/Knowledge-Distillation)
+**Smaller language model, faster inference** · `PyTorch` `Hugging Face Transformers` `FastAPI` `LangGraph`
+
+Distilled GPT-2 Medium into a custom student model and evaluated the trade-off between model size, inference latency, and validation perplexity.
+
+- Reduced model parameters from **355M to 45M** — approximately **87% smaller**.
+- Measured approximately **7.7× faster inference** (about 1,272 ms → 166 ms).
+- Built a full-stack model comparison and finance Q&A application with a retrieval-augmented workflow.
+
+### 3. [SkillQuest: The AI Dungeon](https://github.com/Abhiraj-Agarwal/SkillQuest-AI-Dungeon)
+**Adaptive, gamified DSA learning** · `Python` `Sentence Transformers` `Gemini API`
+
+A game-inspired learning engine designed to make algorithm practice more adaptive. Difficulty adjusts using an epsilon-greedy multi-armed bandit, while a hybrid grading pipeline combines semantic similarity with LLM evaluation when needed.
+
+- Built to adapt question difficulty based on learner performance.
+- Combines embedding-based answer evaluation with an LLM fallback.
+- Won **2nd place in the Simulation Track at Hackwave 2026**, according to my portfolio.
+
+### 4. [PathForge — Learning Path Recommender](https://github.com/Abhiraj-Agarwal/PathForge-Learning-Path-Recommender)
+**Personalized learning recommendations** · `Python`
+
+A project focused on recommending learning paths and helping learners navigate skills and topics in a structured way.
+
+### 5. [Reuse-Aware Graph Learning for Efficient SBAR](https://github.com/Abhiraj-Agarwal/Reuse-Aware-Graph-Learning-over-Similar-Local-Subgraphs-for-Efficient-SBAR)
+**Graph learning / undergraduate research** · `Python`
+
+Research-oriented work exploring reuse-aware graph learning over similar local subgraphs for more efficient SBAR. See the repository for the current implementation and research details.
+
+> I keep this list selective. Visit my [GitHub repositories](https://github.com/Abhiraj-Agarwal?tab=repositories) for more projects and updates.
+
+## 💼 Experience
+
+**AI Engineer Intern — VVDN Technologies** · Jun–Aug 2026
+
+- Built backend services and LLM-agent orchestration for a production MES chatbot supporting **five manufacturing workflows**, using Python, LangGraph, Gemini APIs, and MCP servers.
+- Reduced multi-tool query latency from **7–8 seconds to 2–3 seconds** (approximately **65%**) through concurrent tool execution.
+- Reduced token consumption by **66%+** through caching, context trimming, and payload compaction.
+- Added a deterministic pre-flight validator to reject invalid queries before LLM or database execution.
+
+## 🧰 Tech Stack
+
+**Languages**  
+`Python` `C++` `C` `Java` `SQL`
+
+**AI / Machine Learning**  
+`PyTorch` `Hugging Face Transformers` `TensorFlow` `Keras` `scikit-learn` `OpenCV` `NumPy` `Pandas`
+
+**LLMs & Agent Systems**  
+`LangGraph` `LangChain` `MCP` `RAG` `FAISS` `Gemini API` `Knowledge Distillation` `Prompt Engineering`
+
+**Backend & Data**  
+`FastAPI` `Streamlit` `PostgreSQL` `MySQL` `REST APIs` `asyncio`
+
+**Cloud & Developer Tools**  
+`AWS` `Linux` `Git` `GitHub` `Docker` `VS Code` `Jupyter`
+
+## 🏆 Highlights
+
+- 🎓 **9.87/10 CGPA** at Shiv Nadar Institute of Eminence; Dean's List.
+- 🧩 **450+ DSA problems solved** across coding platforms.
+- 📈 **1600+ LeetCode contest rating**.
+- 🌍 **Top 7% contributor — GirlScript Summer of Code 2026**.
+- 🥈 **2nd place — Hackwave 2026, Simulation Track**.
+- 🧑‍💻 Core member, Google Developer Student Club (SNIoE).
+- 🧠 Machine Learning Specialization — Stanford Online & DeepLearning.AI.
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhiraj-Agarwal&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiraj-Agarwal&layout=compact&hide_border=true" alt="Most-used languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Let's build something measurably useful.
+
+Interested in AI agents, model efficiency, applied ML, or open-source collaboration?  
+Feel free to [connect on LinkedIn](https://www.linkedin.com/in/abhiraj-agarwal-2772a2329) or [send me an email](mailto:agarwalabhiraj06@gmail.com).
+
+[🌐 Portfolio](https://abhiraj-agarwal.vercel.app/) · [💻 GitHub](https://github.com/Abhiraj-Agarwal)
+
+</div>
